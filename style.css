@@ -1,0 +1,51 @@
+.header{
+	letter-spacing: 3px;
+}
+.text{
+	text-transform: uppercase;
+	padding-top: 30px;
+}
+.header_bottom{
+	background: green;
+	color: white;
+}
+ul li{
+	padding-bottom: -10px;	
+}
+ul li:hover{
+	background: white;
+	color: black;	
+}
+body{
+	letter-spacing: px;
+}
+.left{
+	/*padding: 10px;*/
+}
+.color{
+	color: black;
+}
+.top{
+	padding-top: 10px;
+}
+.float{
+	float: left;
+	border: 2px solid red;
+	display: inline;
+}
+.floattwo{
+	float: left;
+	border: 2px solid red;
+	display: inline;
+	margin-top: 20px;
+}
+.none a{
+	text-decoration: none;
+}
+ul li a{
+	text-decoration: none;
+}
+/*.float{
+	display: inline;
+	float: left;
+}*/
